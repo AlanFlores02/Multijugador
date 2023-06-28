@@ -1,0 +1,2411 @@
+fileFormatVersion: 2
+guid: 396971440e035924b8f6e273f254aec2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClubPenguin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6524
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65a483688fe3947ba9f64f5513a433
+      internalID: -115591360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 6524
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4073955db4906b4598c6e64c45ec60c
+      internalID: -1125295713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_2
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 6524
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b65b9b0659f2944a8c6f8fb3308e1f
+      internalID: 1139622443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_3
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 6524
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfe1929a91e05e47a9f1336b0f96acd
+      internalID: 1637050916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_4
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 6524
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be9dc1aab0037c4cb42325aab9d2554
+      internalID: 638294452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_5
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 6524
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91bc0457743b724e931a236bf4a98eb
+      internalID: -1292331399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_6
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 6524
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59ecb99a7380f849bba579a1e27c373
+      internalID: 381513050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6058
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c77fe62a00b98d4a9fc82d3d2d00248
+      internalID: -58103301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 6058
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bc8a6aebcec7b4c9259f7abcbcd6a4
+      internalID: 1221841614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_9
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 6058
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320447bea15fbbc4b84964e985930c4c
+      internalID: 747922002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_10
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 6058
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41f7056d542ba48b575da068d1ac5f
+      internalID: 738175228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_11
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 6058
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad1816ad85664148a9022e612911073
+      internalID: -655239102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_12
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 6058
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006d128daa2787146bbad0228842a50b
+      internalID: -1581956212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_13
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 6058
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8be7333389803c4b9bad9bc7e67c775
+      internalID: 1084269199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5592
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfaaca951584964083666af72f40667
+      internalID: 1588213246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 5592
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451437040cc22bb4d90627d969ddbee0
+      internalID: 1843563267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 5592
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d88e9979e266c438b09dbdb6bc8e03
+      internalID: 1631312121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_17
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 5592
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adda254901517584d89edb0e0533efff
+      internalID: 539904379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_18
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 5592
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efacc173036b2c64798da052d4e682ef
+      internalID: -1888988296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_19
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 5592
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ac51329e433e844bd7990ed1f01713
+      internalID: 1419249395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_20
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 5592
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc598f3ca49ad4c8944cdbba8b4cb4
+      internalID: -1443509730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5126
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb960cd28df9a44bb8db1c2aa23ad8
+      internalID: 857038533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 5126
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4458b66680c99446b53cfca5c7bce8c
+      internalID: -1147739873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_23
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 5126
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f5388d85eab1347b77a1b1b4d2747d
+      internalID: -486007309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_24
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 5126
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4034f0f8728955346aa8b50ff5ecb708
+      internalID: 1596307010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_25
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 5126
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c38ba2c34a2364186cb0573f9417cc
+      internalID: 51113188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_26
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 5126
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc4758de5ab7934bae7c864a02d4db2
+      internalID: 1480209954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_27
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 5126
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e7813bf3172c4699039af9b48eb05
+      internalID: 1045958604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4660
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614ccafef18940a4abe6bf6c061cb6de
+      internalID: 1756797739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4660
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756a81e3e9438514e961651adbe77c16
+      internalID: -115308770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_30
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 4660
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9861fda959e7aee40ac714775dd3ccbc
+      internalID: -1291713259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_31
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 4660
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59dc16d9c47f5648b96dd7bc6a7ad9b
+      internalID: -520765308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_32
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 4660
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e2322a46f08fa4c8c83df62fe8c36b
+      internalID: -524225839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_33
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 4660
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d594114217f9ea842ae22f53e03755b7
+      internalID: -937721460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_34
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 4660
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0da609aa302543a791da8ae97cdd3
+      internalID: 388205541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4194
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaf80378e19c5e4fb3f570dc2b9c8c8
+      internalID: 712584582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4194
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4377a1bdda8f1694f9fb079289970afc
+      internalID: -1734448390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_37
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 4194
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0915d9712cb46e2428d15de6c87f2737
+      internalID: -720691132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_38
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 4194
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a250773d34d1c24ebcea6acfc1a0fc4
+      internalID: 1481370222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_39
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 4194
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec872a946c339b4d8f37a0093ba3d6b
+      internalID: -516295902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_40
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 4194
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4b1c3ed2abc494ba5734665e7e4aaa
+      internalID: 401374382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_41
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 4194
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2a0c5e4486396459b14f01669ae2a8
+      internalID: 1161729912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3728
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc94857fc3a214428c5efb9cfa413a3
+      internalID: -589838000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 3728
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d2efabb547608418bb09c668f99856
+      internalID: 1916704937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_44
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3728
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0af159e36029e479eefcb7ddc6a53c
+      internalID: -654565331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_45
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 3728
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0a98be38b398544b0b04e69069862b
+      internalID: 1365390259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_46
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3728
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf6506dd2e794f46a583a58c308c7b0
+      internalID: -816816116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_47
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 3728
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e9876f2b5b0f419f2fb68ca6ddc7b
+      internalID: 509563355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_48
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3728
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a08a0bcc98f243b19ae122094f766
+      internalID: 1503271436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3262
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da19ade7205ca9d47af68809450165c0
+      internalID: 443427484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_50
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 3262
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaef9dabd4e29c34f878a3dd155e90e4
+      internalID: -208503359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_51
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3262
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b75a9a00df224880bac9d633c3485
+      internalID: -1326357303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_52
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 3262
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ece27a0cd0222428eb89695edac854
+      internalID: -150272352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_53
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3262
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c5704e8dba1f4a9e6abaa6e6a6c6c
+      internalID: -271630562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_54
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 3262
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f765a478d1e40f479ead010ce342980
+      internalID: -1264506840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_55
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3262
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330440ed174e304479db92b1dd0b8e10
+      internalID: -736477640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2796
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712112142bd1a4940b70813c01df6c84
+      internalID: -21524639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_57
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2796
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e10d7dbe161f4439d1bd4b5b8b6997
+      internalID: 523363728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_58
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2796
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1e3ca192bbc52429fcdeed2b643a33
+      internalID: -1603662624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_59
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2796
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e869741a8d2b34e84b297d4dc47e0a
+      internalID: -1879061766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_60
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2796
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee429341624914eb4436b86cb3b888
+      internalID: 1660397140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_61
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 2796
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a31f02e61ef3d648be34d8e484d0ed5
+      internalID: -785880118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_62
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2796
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae2693ff3294e74db18b23f07bcbab3
+      internalID: -2096173104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2330
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deca36703ec477e40a4f766c217ac10a
+      internalID: 1558052040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_64
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2330
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ff747520340f249a6ba169ffe64307
+      internalID: 440209764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_65
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2330
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ac268a33cd4f4488def8b9ee18820
+      internalID: -1439461551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_66
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2330
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bdbf4e873efa94fb156de263568fc0
+      internalID: -1408508881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_67
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2330
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947f5d85291dd354e963457492df35bd
+      internalID: 164595848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_68
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 2330
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca98e8a4c43774aa6aa4f3d87bfc87
+      internalID: 739975999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_69
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2330
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b17bbb6abdf024d895196edfc9bff4
+      internalID: 248045303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1864
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2dfea07b34a93469b7fd6fae2fbb94
+      internalID: -1472359802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_71
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1864
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910adbac75a88e43ae657c879b6dbbc
+      internalID: 1796234815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_72
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1864
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84fc5ba5d20fc442842d27695fea745
+      internalID: -1716787153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_73
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1864
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc28076534195543a80a13821d2af5f
+      internalID: -1845385217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_74
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1864
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a806de39344243882919bc89f6cbf
+      internalID: -1724371457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_75
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 1864
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3309a6f6ca9e43ab9265d006fff1a
+      internalID: 1976217160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_76
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1864
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c184482295a3aa44c87aa867f5fb07eb
+      internalID: -97150394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1398
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315545f418dfbc408552a7d3e0215b1
+      internalID: 1750024123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1398
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad18e846bd7564c8a54412e7908c66
+      internalID: -954282002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_79
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1398
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40669c4b28c250a4d947285b7a71b149
+      internalID: -1282212512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_80
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1398
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf55dad82deea04684827610301a69a
+      internalID: 366863572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_81
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1398
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db017ab509f95849bc3af908f8e0db6
+      internalID: 1629223836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_82
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 1398
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713db406db33c84195262fb2100f4a4
+      internalID: 936199270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_83
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1398
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c578a25cfca54aafe5f8bed8ac5d3
+      internalID: 405696071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b935c4558e3b55448d89a8cda599141
+      internalID: -1647357637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_85
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 932
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f70949c2811544ea5cace73ead7923
+      internalID: -479092072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_86
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 932
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85ae22aa1f491849ab4be8ea4181774
+      internalID: -1409357477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_87
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 932
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d06f46901f7c4ba82eec01235ae45
+      internalID: 1468465205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_88
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 932
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67d56ec4793ea949b30223af3caf00b
+      internalID: 1035706001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_89
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 932
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1844d421994294c8983853f93b151f
+      internalID: -1885721425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_90
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 932
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0470c3e59f5b842a3e8f64f7d62be6
+      internalID: 1371376784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2466b6a46d82a4f42b5a62e6c3401c82
+      internalID: 481217002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_92
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 466
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54971d2e5e848c94bbf042635e9ae959
+      internalID: 817401606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_93
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 466
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466da219b72e60945a26386bff5b8d2d
+      internalID: -1915940559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_94
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 466
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205dc641da9031449b023f20dae13b67
+      internalID: -1650292121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_95
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 466
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85aa45b8bef13e44aeddbd6379826d3
+      internalID: 983912985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_96
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 466
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe27672625d437e4aaa2b5c5b27dcfbf
+      internalID: -1489302400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_97
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 466
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e8d8273c67c64899ee1eaa20f41c3
+      internalID: -603447457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c5eed23fc203f4ab27746f9b18ffbd
+      internalID: 88105515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_99
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce7489d0d0933c4ea7d7c896eec178e
+      internalID: 1678671615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_100
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda24fcfe645300408b68653828e1819
+      internalID: -1241473939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_101
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 0
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c114b1789356748b232260f1ca9281
+      internalID: 1460532581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_102
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 0
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0de728fa434f45b15790fe005c3ed
+      internalID: 427126614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubPenguin_103
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 0
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f21aea81053c984bb5a919300cccda5
+      internalID: -1491725723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ClubPenguin_0: -115591360
+      ClubPenguin_1: -1125295713
+      ClubPenguin_10: 738175228
+      ClubPenguin_100: -1241473939
+      ClubPenguin_101: 1460532581
+      ClubPenguin_102: 427126614
+      ClubPenguin_103: -1491725723
+      ClubPenguin_11: -655239102
+      ClubPenguin_12: -1581956212
+      ClubPenguin_13: 1084269199
+      ClubPenguin_14: 1588213246
+      ClubPenguin_15: 1843563267
+      ClubPenguin_16: 1631312121
+      ClubPenguin_17: 539904379
+      ClubPenguin_18: -1888988296
+      ClubPenguin_19: 1419249395
+      ClubPenguin_2: 1139622443
+      ClubPenguin_20: -1443509730
+      ClubPenguin_21: 857038533
+      ClubPenguin_22: -1147739873
+      ClubPenguin_23: -486007309
+      ClubPenguin_24: 1596307010
+      ClubPenguin_25: 51113188
+      ClubPenguin_26: 1480209954
+      ClubPenguin_27: 1045958604
+      ClubPenguin_28: 1756797739
+      ClubPenguin_29: -115308770
+      ClubPenguin_3: 1637050916
+      ClubPenguin_30: -1291713259
+      ClubPenguin_31: -520765308
+      ClubPenguin_32: -524225839
+      ClubPenguin_33: -937721460
+      ClubPenguin_34: 388205541
+      ClubPenguin_35: 712584582
+      ClubPenguin_36: -1734448390
+      ClubPenguin_37: -720691132
+      ClubPenguin_38: 1481370222
+      ClubPenguin_39: -516295902
+      ClubPenguin_4: 638294452
+      ClubPenguin_40: 401374382
+      ClubPenguin_41: 1161729912
+      ClubPenguin_42: -589838000
+      ClubPenguin_43: 1916704937
+      ClubPenguin_44: -654565331
+      ClubPenguin_45: 1365390259
+      ClubPenguin_46: -816816116
+      ClubPenguin_47: 509563355
+      ClubPenguin_48: 1503271436
+      ClubPenguin_49: 443427484
+      ClubPenguin_5: -1292331399
+      ClubPenguin_50: -208503359
+      ClubPenguin_51: -1326357303
+      ClubPenguin_52: -150272352
+      ClubPenguin_53: -271630562
+      ClubPenguin_54: -1264506840
+      ClubPenguin_55: -736477640
+      ClubPenguin_56: -21524639
+      ClubPenguin_57: 523363728
+      ClubPenguin_58: -1603662624
+      ClubPenguin_59: -1879061766
+      ClubPenguin_6: 381513050
+      ClubPenguin_60: 1660397140
+      ClubPenguin_61: -785880118
+      ClubPenguin_62: -2096173104
+      ClubPenguin_63: 1558052040
+      ClubPenguin_64: 440209764
+      ClubPenguin_65: -1439461551
+      ClubPenguin_66: -1408508881
+      ClubPenguin_67: 164595848
+      ClubPenguin_68: 739975999
+      ClubPenguin_69: 248045303
+      ClubPenguin_7: -58103301
+      ClubPenguin_70: -1472359802
+      ClubPenguin_71: 1796234815
+      ClubPenguin_72: -1716787153
+      ClubPenguin_73: -1845385217
+      ClubPenguin_74: -1724371457
+      ClubPenguin_75: 1976217160
+      ClubPenguin_76: -97150394
+      ClubPenguin_77: 1750024123
+      ClubPenguin_78: -954282002
+      ClubPenguin_79: -1282212512
+      ClubPenguin_8: 1221841614
+      ClubPenguin_80: 366863572
+      ClubPenguin_81: 1629223836
+      ClubPenguin_82: 936199270
+      ClubPenguin_83: 405696071
+      ClubPenguin_84: -1647357637
+      ClubPenguin_85: -479092072
+      ClubPenguin_86: -1409357477
+      ClubPenguin_87: 1468465205
+      ClubPenguin_88: 1035706001
+      ClubPenguin_89: -1885721425
+      ClubPenguin_9: 747922002
+      ClubPenguin_90: 1371376784
+      ClubPenguin_91: 481217002
+      ClubPenguin_92: 817401606
+      ClubPenguin_93: -1915940559
+      ClubPenguin_94: -1650292121
+      ClubPenguin_95: 983912985
+      ClubPenguin_96: -1489302400
+      ClubPenguin_97: -603447457
+      ClubPenguin_98: 88105515
+      ClubPenguin_99: 1678671615
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

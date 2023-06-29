@@ -7,14 +7,13 @@ public class GivePotato : MonoBehaviour
 {
     GameObject[] players;
     Image img;
-    public int repetirEfecto;
-    float wait=1.0f, newWait=1.0f;
-    bool loop = true;
+    int repetirEfecto, give;
 
     void Start()
     {
         players = GameObject.FindGameObjectsWithTag("Player");
-        repetirEfecto = 12 + Random.Range(0, players.Length);
+        give = Random.Range(0, players.Length);
+        repetirEfecto = 12 + give;
         img = GameObject.Find("Arrow").GetComponent<Image>();
 
         InvokeRepeating("TurnArrow", 0.5f, 0.5f);
@@ -33,6 +32,7 @@ public class GivePotato : MonoBehaviour
     {
         // Insert other SFX here
         img.color = new Color32(255, 255, 225, 100);
+        players[give].GetComponent<>();
     }
 }
 

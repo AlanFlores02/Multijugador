@@ -102,6 +102,7 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
+-define:UNITY_PRO_LICENSE
 -define:ENABLE_CUSTOM_RENDER_TEXTURE
 -define:ENABLE_DIRECTOR
 -define:ENABLE_LOCALIZATION
@@ -325,11 +326,11 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.20f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.20f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.20f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
--r:"C:/Users/Yosef/OneDrive/Documents/Unity/Clase Multijugador/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
--r:"C:/Users/Yosef/OneDrive/Documents/Unity/Clase Multijugador/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1/Mono.Cecil.dll"
--r:"C:/Users/Yosef/OneDrive/Documents/Unity/Clase Multijugador/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1/Mono.Cecil.Mdb.dll"
--r:"C:/Users/Yosef/OneDrive/Documents/Unity/Clase Multijugador/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1/Mono.Cecil.Pdb.dll"
--r:"C:/Users/Yosef/OneDrive/Documents/Unity/Clase Multijugador/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1/Mono.Cecil.Rocks.dll"
+-r:"D:/Proyectos Unity/Multijugador/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"D:/Proyectos Unity/Multijugador/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1/Mono.Cecil.dll"
+-r:"D:/Proyectos Unity/Multijugador/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1/Mono.Cecil.Mdb.dll"
+-r:"D:/Proyectos Unity/Multijugador/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1/Mono.Cecil.Pdb.dll"
+-r:"D:/Proyectos Unity/Multijugador/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1/Mono.Cecil.Rocks.dll"
 -r:"Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Collections.ref.dll"
 -r:"Library/Bee/artifacts/StandaloneWindows64_CodeGen/Unity.Netcode.Runtime.ref.dll"
 "Library/PackageCache/com.unity.netcode.gameobjects@1.4.0/Editor/CodeGen/CodeGenHelpers.cs"

@@ -58,12 +58,13 @@ ScriptsOnlyBuild:
   serializedClasses:
     Unity.Netcode.Runtime:
     - Unity.Netcode.NetworkConfig
-    - Unity.Netcode.NetworkPrefab
     - Unity.Netcode.NetworkPrefabs
     - Unity.Netcode.Transports.UTP.UnityTransport/ConnectionAddressData
     - Unity.Netcode.Transports.UTP.UnityTransport/SimulatorParameters
     UnityEngine.CoreModule:
+    - UnityEngine.Events.ArgumentCache
     - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
     UnityEngine.UI:
     - UnityEngine.UI.AnimationTriggers
     - UnityEngine.UI.Button/ButtonClickedEvent
@@ -72,7 +73,13 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
     - UnityEngine.UI.Navigation
     - UnityEngine.UI.SpriteState
-  methodsToPreserve: []
+  methodsToPreserve:
+  - assembly: Assembly-CSharp
+    fullTypeName: manager
+    methodName: StartHost
+  - assembly: Assembly-CSharp
+    fullTypeName: manager
+    methodName: StartClient
   sceneClasses:
     Assets/Scenes/DanceFloor.unity:
     - Class: 1
@@ -125,23 +132,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1598}
+      Script: {instanceID: 1656}
     - Class: 114
-      Script: {instanceID: 2896}
+      Script: {instanceID: 2954}
     - Class: 114
-      Script: {instanceID: 3100}
+      Script: {instanceID: 3158}
     - Class: 114
-      Script: {instanceID: 3164}
+      Script: {instanceID: 3222}
     - Class: 114
-      Script: {instanceID: 5196}
+      Script: {instanceID: 5254}
     - Class: 114
-      Script: {instanceID: 6400}
+      Script: {instanceID: 6458}
     - Class: 114
-      Script: {instanceID: 6522}
+      Script: {instanceID: 6580}
     - Class: 114
-      Script: {instanceID: 6912}
+      Script: {instanceID: 6970}
     - Class: 114
-      Script: {instanceID: 7546}
+      Script: {instanceID: 7604}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -149,6 +156,8 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -186,39 +195,39 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1598}
+      Script: {instanceID: 1656}
     - Class: 114
-      Script: {instanceID: 2070}
+      Script: {instanceID: 2128}
     - Class: 114
-      Script: {instanceID: 2420}
+      Script: {instanceID: 2478}
     - Class: 114
-      Script: {instanceID: 2472}
+      Script: {instanceID: 2530}
     - Class: 114
-      Script: {instanceID: 2896}
+      Script: {instanceID: 2954}
     - Class: 114
-      Script: {instanceID: 3144}
+      Script: {instanceID: 3202}
     - Class: 114
-      Script: {instanceID: 3164}
+      Script: {instanceID: 3222}
     - Class: 114
-      Script: {instanceID: 3544}
+      Script: {instanceID: 3602}
     - Class: 114
-      Script: {instanceID: 5196}
+      Script: {instanceID: 5254}
     - Class: 114
-      Script: {instanceID: 5466}
+      Script: {instanceID: 5524}
     - Class: 114
-      Script: {instanceID: 6078}
+      Script: {instanceID: 6136}
     - Class: 114
-      Script: {instanceID: 6400}
+      Script: {instanceID: 6458}
     - Class: 114
-      Script: {instanceID: 6522}
+      Script: {instanceID: 6580}
     - Class: 114
-      Script: {instanceID: 6912}
+      Script: {instanceID: 6970}
     - Class: 114
-      Script: {instanceID: 7546}
+      Script: {instanceID: 7604}
     - Class: 114
-      Script: {instanceID: 8440}
+      Script: {instanceID: 8498}
     - Class: 114
-      Script: {instanceID: 9690}
+      Script: {instanceID: 9748}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1263,4 +1272,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Lobby.unity
   - Assets/Scenes/DanceFloor.unity
   - Assets/Scenes/HotPotato.unity
-  playerPath: C:/Users/Yosef/OneDrive/Documents/Unity/Clase Multijugador/Clase Multijugador.exe
+  playerPath: D:/Proyectos Unity/Multijugador/Clase Multijugador.exe

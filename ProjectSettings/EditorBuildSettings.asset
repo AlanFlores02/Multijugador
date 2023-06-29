@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DanceFloor.unity
     guid: 551db4f0c13759c4db99a352263d36b2
+  - enabled: 1
+    path: Assets/Scenes/HotPotato.unity
+    guid: 4b3e90e5767119242af87a0e54c1de58
   m_configObjects: {}

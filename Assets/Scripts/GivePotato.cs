@@ -32,7 +32,8 @@ public class GivePotato : MonoBehaviour
     {
         // Insert other SFX here
         img.color = new Color32(255, 255, 225, 100);
-        players[give].GetComponent<>();
+        players[give].GetComponent<burning>().SetPlayerStats(give, true);
+        players[1 - give].GetComponent<burning>().SetPlayerStats(1 - give, false);
     }
 }
 

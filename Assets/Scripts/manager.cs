@@ -22,6 +22,7 @@ public class manager : NetworkBehaviour
      * 
      */
 
+    public string gameplay = "HotPotato";
     float timer = 10.0f;
     bool _client, _server;
     Button btnHost, btnClient, btnServer;
@@ -52,7 +53,7 @@ public class manager : NetworkBehaviour
         if(GameObject.FindGameObjectsWithTag("Player").Length >= 2)
         {
             timer -= Time.deltaTime;
-            if (timer < 0) { SceneManager.LoadScene("DanceFloor"); }
+            if (timer < 0) { SceneManager.LoadScene(gameplay); }
             countdown.text = "STARTING IN " + timer.ToString("0.00");
             progress.offsetMax = new Vector2(canvas.rect.width * (1 - (timer / 10)), 50);
         }

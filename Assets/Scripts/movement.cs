@@ -7,16 +7,10 @@ public class movement : NetworkBehaviour
 {
     public float speed = 50.0f;
     public bool funky = false;
-    Animator anim;
 
     void Awake()
     {
         DontDestroyOnLoad(this.gameObject);
-    }
-
-    void Start()
-    {
-        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -35,15 +29,5 @@ public class movement : NetworkBehaviour
         if(yPos < -8.0f) { yPos = 6.0f; }
         else if(yPos > 8.0f) { yPos = -6.0f; }
         transform.position = new Vector2(xPos, yPos);
-    }
-
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.tag == "Funky") { anim.SetBool("isDancing?", true); }
-    }
-
-    void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.tag == "Funky") { anim.SetBool("isDancing?", false); }
     }
 }
